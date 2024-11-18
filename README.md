@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Farshid
+- 👀 I’m interested in Computer Vision, Deep Learning, LLM
